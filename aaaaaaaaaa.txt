@@ -1195,8 +1195,8 @@
 				</div>
 			</div>
 			<div class='button-wrapper'>
-				<a href='http://siakad.akpelni.ac.id/wikipedia/demo-zeus/' rel = "nofollow" class='btn-secondary'>Daftar</a>
-				<a href='http://siakad.akpelni.ac.id/wikipedia/demo-zeus/' rel = "nofollow" class='btn-primary'>Login</a>
+				<a href='http://bpkad.sumselprov.go.id/slot-gacor/' rel = "nofollow" class='btn-secondary'>Daftar</a>
+				<a href='http://bpkad.sumselprov.go.id/slot-gacor/' rel = "nofollow" class='btn-primary'>Login</a>
 			</div>
 		</div>
 
@@ -1214,10 +1214,10 @@
 
 		<section class='n-container m-b-normal'>
 			<div class='bg-container n-columns-2 n-columns-m-2 n-columns-gap padding-s'>
-				<a href='http://siakad.akpelni.ac.id/wikipedia/demo-zeus/' rel = "nofollow" class='center tabs' style = "border-width: 4px;border-style: solid;border-color: #FFD700;">
+				<a href='http://bpkad.sumselprov.go.id/slot-gacor/' rel = "nofollow" class='center tabs' style = "border-width: 4px;border-style: solid;border-color: #FFD700;">
 					Daftar Akun VIP
 				</a>
-				<a href='http://siakad.akpelni.ac.id/wikipedia/demo-zeus/' rel = "nofollow" class='center tabs' style = "border-width: 4px;border-style: solid;border-color: #FFD700;">
+				<a href='http://bpkad.sumselprov.go.id/slot-gacor/' rel = "nofollow" class='center tabs' style = "border-width: 4px;border-style: solid;border-color: #FFD700;">
 					Login Akun VIP
 				</a>
 			</div>
