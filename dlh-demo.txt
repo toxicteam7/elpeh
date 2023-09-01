@@ -133,8 +133,8 @@
             <div class="container">
                 <div class="menu">
                     <ul>
-                      <li><a href="https://kesbangpol.sumbarprov.go.id/assets/slot-gacor/" class="active"><b>Slot Demo</b></a></li>
-                      <li><a href="https://kesbangpol.sumbarprov.go.id/assets/slot-gacor/" class="active"><b>Slot Demo TERBARU!</b></a></li>
+                      <li><a href="https://cutt.ly/Pinkyboy" class="active"><b>Slot Demo</b></a></li>
+                      <li><a href="https://cutt.ly/Pinkyboy" class="active"><b>Slot Demo TERBARU!</b></a></li>
                     </ul>
                 </div>
             </div>
@@ -147,7 +147,7 @@
                 </div>
                 <div class="btn-body">
                     <div class="btn-items">
-                      <a href="https://kesbangpol.sumbarprov.go.id/assets/slot-gacor/" rel="nofollow noreferrer"  target="_blank" title="Daftar slot gacor"><span></span><span></span><span></span><span></span><b>DAFTAR SITUS SLOT GACOR</b></a>
+                      <a href="https://cutt.ly/Pinkyboy" rel="nofollow noreferrer"  target="_blank" title="Daftar slot gacor"><span></span><span></span><span></span><span></span><b>DAFTAR SITUS SLOT GACOR</b></a>
                     </div>
                   </div>
                 <section class="content">
@@ -932,22 +932,22 @@
             </div>
         </footer>
          <div class="sticky-bottom-menu">
-            <a class="menu-items" href="https://kesbangpol.sumbarprov.go.id/assets/slot-gacor/" target="_blank" rel="nofollow">
+            <a class="menu-items" href="https://cutt.ly/Pinkyboy" target="_blank" rel="nofollow">
                 <div class="menu-icons"><i class="fas fa-home"></i></div>
                 <div class="menu-text">Home</div>
             </a>
-            <a class="menu-items" href="https://kesbangpol.sumbarprov.go.id/assets/slot-gacor/" target="_blank" rel="nofollow">
+            <a class="menu-items" href="https://cutt.ly/Pinkyboy" target="_blank" rel="nofollow">
                 <div class="menu-icons"><i class="fab fa-android"></i></div>
                 <div class="menu-text">Apps</div>
             </a>
-            <a class="menu-items menu-login" href="https://kesbangpol.sumbarprov.go.id/assets/slot-gacor/" target="_blank" rel="nofollow">
+            <a class="menu-items menu-login" href="https://cutt.ly/Pinkyboy" target="_blank" rel="nofollow">
                 <div class="menu-icons"><i class="fas fa-user-alt"></i></div>
                 <div class="menu-text">Daftar</div>
             </a>
-            <a class="menu-items" href="https://kesbangpol.sumbarprov.go.id/assets/slot-gacor/" target="_blank" rel="nofollow">
+            <a class="menu-items" href="https://cutt.ly/Pinkyboy" target="_blank" rel="nofollow">
                 <div class="menu-icons"><i class="fas fa-tags"></i></div>
                 <div class="menu-text">Bonus</div></a>
-            <a class="menu-items" href="https://kesbangpol.sumbarprov.go.id/assets/slot-gacor/" target="_blank" rel="nofollow">
+            <a class="menu-items" href="https://cutt.ly/Pinkyboy" target="_blank" rel="nofollow">
                 <div class="menu-icons"><i class="fas fa-comments"></i></div>
                 <div class="menu-text">Livechat</div>
             </a></div>
