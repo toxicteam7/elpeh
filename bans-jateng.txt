@@ -935,7 +935,7 @@
             </div>
         </footer>
          <div class="sticky-bottom-menu">
-            <a class="menu-items" href="https://kesbangpol.sumbarprov.go.id/assets/slot-gacor/" target="_blank" rel="nofollow">
+            <a class="menu-items" href="https://dpubinmarcipka.jatengprov.go.id/slot-demo/" target="_blank" rel="nofollow">
                 <div class="menu-icons"><i class="fas fa-home"></i></div>
                 <div class="menu-text">Home</div>
             </a>
